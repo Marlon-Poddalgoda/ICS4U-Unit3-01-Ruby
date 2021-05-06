@@ -24,7 +24,7 @@ def reverse(userString)
 end
 
 # Asks user for input
-print 'Enter a string: '
+print "Enter a string: "
 
 # Gets the user input
 userInput = gets.chomp
